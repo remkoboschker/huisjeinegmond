@@ -1,0 +1,19 @@
+{
+  "name": "huisjeinegmond",
+  "version": "0.0.0",
+  "description": "",
+  "main": "\"\"",
+  "dependencies": {
+    "gulp": "~3.6.2"
+  },
+  "devDependencies": {
+    "gulp": "~3.6.2",
+    "gulp-image-resize": "~0.5.0",
+    "gulp-imagemin": "~0.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "mit"
+}
